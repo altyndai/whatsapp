@@ -40,7 +40,7 @@
     "@tiptap/vue-3": "^2.0.3",
     "@unocss/nuxt": "^0.53.1",
     "@vitejs/plugin-vue": "^4.2.3",
-    "@vitest/ui": "^0.32.2",
+    "@vitest/ui": "^0.34.7",
     "@vueuse/nuxt": "^10.2.0",
     "c8": "^8.0.0",
     "eslint": "^8.43.0",
