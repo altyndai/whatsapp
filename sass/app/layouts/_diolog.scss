@@ -1,0 +1,33 @@
+.p-dialog{
+  max-height: 100% !important;
+}
+.p-dialog .p-dialog-header{
+  border-radius: 0;
+  background-color: #008069;
+  height: 130px;
+
+}
+.navbar__title{
+  font-size: 19px;
+  color: white;
+  padding-top: 50px;
+  margin-left: 50px;
+
+}
+.p-dialog .p-dialog-content:last-of-type{
+  border-radius: 0;
+}
+.p-dialog .p-dialog-header .p-dialog-header-icon:last-child{
+  margin-right: 0px;
+  margin-top: 40px;
+}
+.p-dialog .p-dialog-header .p-dialog-header-icon{
+  color: white;
+}
+.p-dialog .p-dialog-header{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: start;
+}
+
+

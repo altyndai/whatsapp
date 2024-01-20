@@ -1,0 +1,32 @@
+.chats__body{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.chat__page{
+  background: #F0F2F5;
+ }
+.chat__page-details{
+  display: flex;
+  align-items: center;
+}
+.chat-input{
+  background: white;
+  height: 50px;
+}
+
+.callDropdown{
+  width: auto !important;
+  border: none;
+  &:not(.p-disabled).p-focus{
+    border: none;
+    box-shadow: none;
+  }
+  .p-dropdown-trigger{
+    width: 2rem;
+  }
+  .p-inputtext{
+    padding: 0.75rem 0;
+  }
+}
