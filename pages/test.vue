@@ -3,7 +3,7 @@
 </script>
 
 <template>
-<h1>Altyndai</h1>
+<h1>Altyndai hhh</h1>
 </template>
 
 <style scoped lang="scss">
