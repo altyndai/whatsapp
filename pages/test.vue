@@ -6,7 +6,6 @@
 <div>
   <h1>Altyndai</h1>
   <h1>Altyndai</h1>
-  <h1>Altyndai</h1>
 </div>
 
 </template>
