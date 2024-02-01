@@ -60,8 +60,8 @@ devDependencies:
     specifier: ^2.0.3
     version: 2.0.3(@tiptap/core@2.0.3)
   '@tiptap/extension-text-align':
-    specifier: ^2.0.3
-    version: 2.0.3(@tiptap/core@2.0.3)
+    specifier: ^2.2.1
+    version: 2.2.1(@tiptap/core@2.0.3)
   '@tiptap/extension-text-style':
     specifier: ^2.0.3
     version: 2.0.3(@tiptap/core@2.0.3)
@@ -2331,8 +2331,8 @@ packages:
       '@tiptap/core': 2.0.3(@tiptap/pm@2.0.3)
     dev: true
 
-  /@tiptap/extension-text-align@2.0.3(@tiptap/core@2.0.3):
-    resolution: {integrity: sha512-VlLgqncKdjMjVjbU60/ALYhFs0wUdjAyvjDXnH1OoM/HuzbILvufPMYz4DUieJIWVJOYUKHQgg4XwBWceAM2Tw==}
+  /@tiptap/extension-text-align@2.2.1(@tiptap/core@2.0.3):
+    resolution: {integrity: sha512-gwgYKo+i5HVxmUp0fOVrr5a9xJ800YWAr/0NlieBqYZ1OgoDZu1WEvXDLChHweKWfqEZNky6LHcDs0jdU52t7A==}
     peerDependencies:
       '@tiptap/core': ^2.0.0
     dependencies:
