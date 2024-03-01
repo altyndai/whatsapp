@@ -63,8 +63,8 @@ devDependencies:
     specifier: ^2.0.3
     version: 2.0.3(@tiptap/core@2.0.3)
   '@tiptap/extension-text-style':
-    specifier: ^2.0.3
-    version: 2.0.3(@tiptap/core@2.0.3)
+    specifier: ^2.2.4
+    version: 2.2.4(@tiptap/core@2.0.3)
   '@tiptap/pm':
     specifier: ^2.0.3
     version: 2.0.3(@tiptap/core@2.0.3)
@@ -2339,8 +2339,8 @@ packages:
       '@tiptap/core': 2.0.3(@tiptap/pm@2.0.3)
     dev: true
 
-  /@tiptap/extension-text-style@2.0.3(@tiptap/core@2.0.3):
-    resolution: {integrity: sha512-yHIYtZVewSwfBfI6TffnsDRiOuXzytppcCsaDlsZFm8OtLG8v9ioH0ItMoOstmZZBiWJOm8iOy2yWSc4rNQEJw==}
+  /@tiptap/extension-text-style@2.2.4(@tiptap/core@2.0.3):
+    resolution: {integrity: sha512-8Mcxy+HUHPUgK7bOv34m8zhbhzPm6f1/hgbgwz9m+Oel7MNPElsMXtxxygbwtr7Hbj6S4NBoBl/Ir4BkziYRbQ==}
     peerDependencies:
       '@tiptap/core': ^2.0.0
     dependencies:
